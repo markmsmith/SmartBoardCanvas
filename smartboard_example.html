@@ -1,0 +1,223 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="Content-type" content="text/html; charset=utf-8">
+    <title>smartboard.js</title>
+
+	<style type="text/css">
+		.dynamicSpan { font-size: 11px; font-family: verdana; color: black; border: 1px solid black; background-color: #d3d3d3; display: none; }
+	</style>
+
+    <script type="text/javascript" src="3rdParty/intro.js"></script>
+    <script type="text/javascript" src="3rdParty/smartboard-1.0.0.js"></script>
+    <script type="text/javascript" charset="utf-8">
+		var debug = true;
+
+        var boardNumber = 0; contactNumber = 0;
+        SB.disableBanners = true;
+        SB.wantsTouches = true;
+
+        var toolChangeText = "";
+        SB.jQuery(document).ready(function($) {
+            $("#sbCanvas").sketch();
+            $("#sbCanvas").sketch().set("tool", "no-tool");
+
+            SB.statusChanged = function(str) {
+                $("#sdkStatus").text(str);
+            };
+
+            SB.onToolChange = function(evt) {
+                var toolName = "No Tool";
+                toolChangeText = "";
+                $("#toolChangeJSON").css("display", "none");
+                var backgroundColor = "#E6E6E6";
+
+				if (typeof(evt.tool) != "undefined")
+				{
+					switch(evt.tool) {
+						case "polyline":
+						case "pen":
+							toolName = "Pen";
+							backgroundColor = evt.colorAsHTML;
+						break;
+						case "eraser_tool":
+						case "eraser":
+							toolName = "Eraser";
+						break;
+						default:
+							toolName = "No Tool";
+						break;
+					}
+				}
+
+                $("#toolStatus").text(toolName);
+                $("#toolStatus").css("background-color", backgroundColor);
+                $("#toolStatus").css("color", toolName == "Pen" ? "#ffffff" : "#000000");
+                toolChangeText = evt._rawXML;
+                $("#toolStatusMsg").text(toolChangeText);
+            };
+
+            SB.wantsSDKEvents = true;
+
+            SB.onProximityStateChange = function(proximityData) {
+                var turnOnArrow = function(side) { $("#" + side).addClass("on"); }
+                var turnOffArrow = function(side) { $("#" + side).removeClass("on"); }
+
+                turnOffArrow("left");
+                turnOffArrow("right");
+
+                var center = proximityData.proximityState.indexOf("center") > -1;
+                var left = proximityData.proximityState.indexOf("left") > -1;
+                var right = proximityData.proximityState.indexOf("right") > -1;
+
+                if(left || center) turnOnArrow("left");
+                if(right || center) turnOnArrow("right");
+            };
+        });
+    </script>
+    <link rel="stylesheet" href="css/bootstrap.min.css" type="text/css" media="screen" title="no title" charset="utf-8">
+    <link rel="stylesheet" href="css/intro.css" type="text/css" media="screen" charset="utf-8">
+</head>
+
+<body>
+<div id=home class=container>
+    <div class=hero-unit>
+    <h1>smartboard.js</h1>
+    <br/>
+    <p>
+    Build applications for the best large format interactive multi-touch display - the
+    <a href="http://www.smarttech.com">SMART Board</a>.
+    </p>
+      <div class="row">
+        <div class="span6 offset1">
+			<img src="images/sb.png"/>
+			<canvas width="408" height="257" id="sbCanvas" style="position: absolute; margin-left: -426px; margin-top: 90px; background-color: #f8f8f8;"></canvas>
+			<script type="text/javascript" src="3rdParty/jquery-1.8.0.min.js"></script>
+			<script type="text/javascript" src="3rdParty/multitouch.js"></script>
+      <script type="text/Javascript">
+        var super_awesome_multitouch_drawing_canvas_thingy = new CanvasDrawr({id: "sbCanvas", size: 2 });
+        // var drawing_params = {colour: "black", thickness: 1 };
+      </script>
+        </div>
+        <div class="span3">
+            <h3>Status:</h3>
+            <div class="well" id="sdkStatus">...</div>
+            <h3>Current Tool:</h3>
+            <div class="well" id="toolStatus">No Tool</div>
+            <h3>Proximity:</h3>
+            <div class="well" id="proximity">
+                <div class="symbol" id="left">⇧</div>
+                <div class="symbol" id="right">⇧</div>
+            </div>
+            <h3>Try it:</h3>
+            <form action=/search class=form-search>
+              <input type=search class=search-query name=q placeholder="Write here with a pen">
+            </form>
+        </div>
+      </div>
+    </div>
+
+    <div class="row">
+    <div style="margin-left: 20px;">
+      <h2>Overview</h2>
+      <p><i>smartboard.js</i> is a javascript library that anyone can include with their web app to automatically get access to SMART Board features.  Create custom interactive experiences on the web using the SMART Board!<p>
+      <p><i>Supports Chrome, Firefox, Safari, IE 10+, and IE9 with Flash</i>
+    </div>
+    <div class="span4">
+      <h2>Try it now</h2>
+      <p>If you are on a SMART Board, lift up a pen.  You should see the box above change to the color of the pen. </p>
+      <p>If you have gotten this far, great, start drawing.  Its multi-touch too!</p>
+      <p>If not, download the latest drivers from <a class="smartboard-no-touch" href="http://www.smarttech.com/Support/Browse+Support/Download+Software">here</a>.  You will need version 11 SP1 or later. </p>
+     </div>
+     <div class="span4">
+       <h2>What you get</h2>
+       <ul>
+          <li>Tool events</li>
+          <li>iOS style touch events (multi-touch)</li>
+          <li>Inking controls</li>
+          <li>Ink to text recognition</li>
+       </ul>
+     </div>
+     <div class="span4">
+       <h2>Bookmarklet</h2>
+       <p>This bookmarklet will allow you to inject smartboard.js into any site, automatically allowing you to use the capability of the SMART Board on your business sites.</p>
+         <div id="bookmarklet" class="smartboard-no-touch">
+         <p><a class="btn btn-primary btn-large" href="javascript:(function(){ if((typeof(window.SB) == 'undefined')) { var _my_script=document.createElement('SCRIPT'); _my_script.type='text/javascript'; _my_script.src='http://api.smarttech.com/lib/smartboard-1.0.0.js'; document.getElementsByTagName('head')[0].appendChild(_my_script); }; })();">Inject smartboard.js</a></p>
+         </div>
+       <p><strong>Drag this into your bookmarks bar</strong></p>
+     </div>
+    </div>
+   <hr/>
+   <div class="row">
+        <div class="span12 smartboard-no-touch">
+            <h2>Get started. (Or, read the <a class="smartboard-no-touch" href="http://api.smarttech.com/wdk/docs/1.0.0/symbols/SB.html">docs</a> or <a href="http://api.smarttech.com/wdk/tutorial/">FAQ</a>)</h2>
+            <br/>
+            <h4 id="includethescript">Include the script</h4>
+
+            <pre><code class="html">
+                &lt;script src=&quot;http://api.smarttech.com/lib/smartboard-1.0.0.js&quot;&gt;&lt;/script&gt;
+            </code></pre>
+
+            <h4 id="gettoolchanges">Get tool changes</h4>
+
+            <pre><code class="html">
+                &lt;script type=&quot;text/javascript&quot;&gt;
+                    SB.onToolChange = function(evt) {
+                        $(&quot;#toolColor&quot;).css(&quot;background&quot;, evt.colorAsHTML);
+                    };
+                &lt;/script&gt;
+            </code></pre>
+
+            <h4 id="gettouchevents">Get touch events (iOS style touch events, code moves right over!)</h4>
+
+            <pre><code class="html">
+                &lt;script type=&quot;text/javascript&quot;&gt;
+                    SB.wantsTouches = true;
+
+                    $(&quot;.moveableObject&quot;).bind(&quot;touchstart touchmove&quot;, function(e) {
+                        e.preventDefault();
+                        var orig = e.originalEvent;
+                        $(this).css({
+                            top: orig.changedTouches[0].pageY,
+                            left: orig.changedTouches[0].pageX
+                        });
+                    };
+                &lt;/script&gt;
+            </code></pre>
+
+        </div>
+   </div>
+
+   <hr/>
+
+   <div id="msgDetailsContainer" style="display: none;">
+        <h2>See whats going on in the background.</h2>
+        <p><i>smartboard.js</i> talks to a local server bundled with drivers using REST and WebSockets.<br/>
+        This JavaScript library is just one of the possible language binding, the REST API is open and usable by any language that talks HTTP.
+        <div id="msgDetails" style="background-color:#f5f5f5; min-height: 350px;">
+            <i>Waiting for messages ... </i>
+        </div>
+		<hr>
+   </div>
+
+   <div class="footer">
+       <p class="muted" style="font-size: 85%;">
+          iOS is a registered trademark of Cisco Systems, Inc. and/or its affiliates in the U.S. and certain other countries. iOS is used under license by Apple Inc.<br/>
+          All other trademarks are the property of their respective owners.<br/><br/>
+
+Due to the evolving nature of the WDK, any use of the WDK is at your own
+risk.  To the maximum extent permitted by law, SMART and its suppliers
+disclaim all warranties and conditions, expressed or implied, including
+(but not limited to) implied warranties of merchantability, fitness for
+a particular purpose, title and non-infringement. SMART doesn't warrant
+that the operation of the middleware is not an interruption, or is free
+of errors and defects. In any case, SMART's entire liability and your
+exclusive remedy for claims arising from the middleware should not
+exceed $10.00 (CAD).
+        </p>
+        <p style="text-align: center;">&copy; 2012 SMART Technologies | <a href="http://www.smarttech.com/us/Legal">Legal</a></p>
+   </div>
+</div>
+</body>
+</html>
+

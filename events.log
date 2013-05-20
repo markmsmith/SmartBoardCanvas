@@ -1,0 +1,1209 @@
+Resource interpreted as Font but transferred with MIME type application/x-font-woff: "data:application/x-font-woff;charset=utf-8;base64,d09GRgABAAAAAEJoABEAAAAAa…BFsAMrRLAEIEWyAx0CK7ADK0QBsAUgRbADK0SwBiBFsgUeAiuxA0Z2K0RZsBQrAAFQZH8IAAA=".
+Mark App point  111 276 258
+Object {color: Array[3], colorAsHTML: "#0000ff", width: 3, opacity: 1, tool: "pen"…}
+ App.js:71
+touchstart
+MouseEvent {dataTransfer: null, toElement: canvas#container-1010.x-container x-container-default, fromElement: canvas#container-1010.x-container x-container-default, y: 276, x: 111…}
+ App.js:83
+preDraw Touch: 1 position: (111,276) point: (111,276) multitouch.js:60
+Mark App point  111 276 258
+Object {color: Array[3], colorAsHTML: "#0000ff", width: 3, opacity: 1, tool: "pen"…}
+ App.js:71
+touchmove
+MouseEvent {dataTransfer: null, toElement: canvas#container-1010.x-container x-container-default, fromElement: canvas#container-1010.x-container x-container-default, y: 276, x: 111…}
+ App.js:83
+Mark App point  111 276 258
+Object {color: Array[3], colorAsHTML: "#0000ff", width: 3, opacity: 1, tool: "pen"…}
+ App.js:71
+touchmove
+MouseEvent {dataTransfer: null, toElement: canvas#container-1010.x-container x-container-default, fromElement: canvas#container-1010.x-container x-container-default, y: 276, x: 111…}
+ App.js:83
+Mark App point  110 276 258
+Object {color: Array[3], colorAsHTML: "#0000ff", width: 3, opacity: 1, tool: "pen"…}
+ App.js:71
+touchmove
+MouseEvent {dataTransfer: null, toElement: canvas#container-1010.x-container x-container-default, fromElement: canvas#container-1010.x-container x-container-default, y: 276, x: 110…}
+ App.js:83
+Mark App point  110 276 258
+Object {color: Array[3], colorAsHTML: "#0000ff", width: 3, opacity: 1, tool: "pen"…}
+ App.js:71
+touchmove
+MouseEvent {dataTransfer: null, toElement: canvas#container-1010.x-container x-container-default, fromElement: canvas#container-1010.x-container x-container-default, y: 276, x: 110…}
+ App.js:83
+Mark App point  110 277 258
+Object {color: Array[3], colorAsHTML: "#0000ff", width: 3, opacity: 1, tool: "pen"…}
+ App.js:71
+touchmove
+MouseEvent {dataTransfer: null, toElement: canvas#container-1010.x-container x-container-default, fromElement: canvas#container-1010.x-container x-container-default, y: 277, x: 110…}
+ App.js:83
+Mark App point  110 277 258
+Object {color: Array[3], colorAsHTML: "#0000ff", width: 3, opacity: 1, tool: "pen"…}
+ App.js:71
+touchmove
+MouseEvent {dataTransfer: null, toElement: canvas#container-1010.x-container x-container-default, fromElement: canvas#container-1010.x-container x-container-default, y: 277, x: 110…}
+ App.js:83
+Mark App point  110 277 258
+Object {color: Array[3], colorAsHTML: "#0000ff", width: 3, opacity: 1, tool: "pen"…}
+ App.js:71
+touchmove
+MouseEvent {dataTransfer: null, toElement: canvas#container-1010.x-container x-container-default, fromElement: canvas#container-1010.x-container x-container-default, y: 277, x: 110…}
+ App.js:83
+Mark App point  109 277 258
+Object {color: Array[3], colorAsHTML: "#0000ff", width: 3, opacity: 1, tool: "pen"…}
+ App.js:71
+touchmove
+MouseEvent {dataTransfer: null, toElement: canvas#container-1010.x-container x-container-default, fromElement: canvas#container-1010.x-container x-container-default, y: 277, x: 109…}
+ App.js:83
+Mark App point  109 277 258
+Object {color: Array[3], colorAsHTML: "#0000ff", width: 3, opacity: 1, tool: "pen"…}
+ App.js:71
+touchmove
+MouseEvent {dataTransfer: null, toElement: canvas#container-1010.x-container x-container-default, fromElement: canvas#container-1010.x-container x-container-default, y: 277, x: 109…}
+ App.js:83
+Mark App point  109 277 258
+Object {color: Array[3], colorAsHTML: "#0000ff", width: 3, opacity: 1, tool: "pen"…}
+ App.js:71
+touchmove
+MouseEvent {dataTransfer: null, toElement: canvas#container-1010.x-container x-container-default, fromElement: canvas#container-1010.x-container x-container-default, y: 277, x: 109…}
+ App.js:83
+Mark App point  109 277 258
+Object {color: Array[3], colorAsHTML: "#0000ff", width: 3, opacity: 1, tool: "pen"…}
+ App.js:71
+touchmove
+MouseEvent {dataTransfer: null, toElement: canvas#container-1010.x-container x-container-default, fromElement: canvas#container-1010.x-container x-container-default, y: 277, x: 109…}
+ App.js:83
+Mark App point  109 277 258
+Object {color: Array[3], colorAsHTML: "#0000ff", width: 3, opacity: 1, tool: "pen"…}
+ App.js:71
+touchmove
+MouseEvent {dataTransfer: null, toElement: canvas#container-1010.x-container x-container-default, fromElement: canvas#container-1010.x-container x-container-default, y: 277, x: 109…}
+ App.js:83
+Mark App point  109 277 258
+Object {color: Array[3], colorAsHTML: "#0000ff", width: 3, opacity: 1, tool: "pen"…}
+ App.js:71
+touchmove
+MouseEvent {dataTransfer: null, toElement: canvas#container-1010.x-container x-container-default, fromElement: canvas#container-1010.x-container x-container-default, y: 277, x: 109…}
+ App.js:83
+Mark App point  109 277 258
+Object {color: Array[3], colorAsHTML: "#0000ff", width: 3, opacity: 1, tool: "pen"…}
+ App.js:71
+touchmove
+MouseEvent {dataTransfer: null, toElement: canvas#container-1010.x-container x-container-default, fromElement: canvas#container-1010.x-container x-container-default, y: 277, x: 109…}
+ App.js:83
+Mark App point  109 277 258
+Object {color: Array[3], colorAsHTML: "#0000ff", width: 3, opacity: 1, tool: "pen"…}
+ App.js:71
+touchmove
+MouseEvent {dataTransfer: null, toElement: canvas#container-1010.x-container x-container-default, fromElement: canvas#container-1010.x-container x-container-default, y: 277, x: 109…}
+ App.js:83
+Mark App point  109 277 258
+Object {color: Array[3], colorAsHTML: "#0000ff", width: 3, opacity: 1, tool: "pen"…}
+ App.js:71
+touchmove
+MouseEvent {dataTransfer: null, toElement: canvas#container-1010.x-container x-container-default, fromElement: canvas#container-1010.x-container x-container-default, y: 277, x: 109…}
+ App.js:83
+Mark App point  109 277 258
+Object {color: Array[3], colorAsHTML: "#0000ff", width: 3, opacity: 1, tool: "pen"…}
+ App.js:71
+touchmove
+MouseEvent {dataTransfer: null, toElement: canvas#container-1010.x-container x-container-default, fromElement: canvas#container-1010.x-container x-container-default, y: 277, x: 109…}
+ App.js:83
+Mark App point  109 277 258
+Object {color: Array[3], colorAsHTML: "#0000ff", width: 3, opacity: 1, tool: "pen"…}
+ App.js:71
+touchmove
+MouseEvent {dataTransfer: null, toElement: canvas#container-1010.x-container x-container-default, fromElement: canvas#container-1010.x-container x-container-default, y: 277, x: 109…}
+ App.js:83
+Mark App point  109 277 258
+Object {color: Array[3], colorAsHTML: "#0000ff", width: 3, opacity: 1, tool: "pen"…}
+ App.js:71
+touchmove
+MouseEvent {dataTransfer: null, toElement: canvas#container-1010.x-container x-container-default, fromElement: canvas#container-1010.x-container x-container-default, y: 277, x: 109…}
+ App.js:83
+Mark App point  109 277 258
+Object {color: Array[3], colorAsHTML: "#0000ff", width: 3, opacity: 1, tool: "pen"…}
+ App.js:71
+touchmove
+MouseEvent {dataTransfer: null, toElement: canvas#container-1010.x-container x-container-default, fromElement: canvas#container-1010.x-container x-container-default, y: 277, x: 109…}
+ App.js:83
+Mark App point  109 277 258
+Object {color: Array[3], colorAsHTML: "#0000ff", width: 3, opacity: 1, tool: "pen"…}
+ App.js:71
+touchmove
+MouseEvent {dataTransfer: null, toElement: canvas#container-1010.x-container x-container-default, fromElement: canvas#container-1010.x-container x-container-default, y: 277, x: 109…}
+ App.js:83
+Mark App point  109 277 258
+Object {color: Array[3], colorAsHTML: "#0000ff", width: 3, opacity: 1, tool: "pen"…}
+ App.js:71
+touchmove
+MouseEvent {dataTransfer: null, toElement: canvas#container-1010.x-container x-container-default, fromElement: canvas#container-1010.x-container x-container-default, y: 277, x: 109…}
+ App.js:83
+Mark App point  109 277 258
+Object {color: Array[3], colorAsHTML: "#0000ff", width: 3, opacity: 1, tool: "pen"…}
+ App.js:71
+touchmove
+MouseEvent {dataTransfer: null, toElement: canvas#container-1010.x-container x-container-default, fromElement: canvas#container-1010.x-container x-container-default, y: 277, x: 109…}
+ App.js:83
+Mark App point  109 277 258
+Object {color: Array[3], colorAsHTML: "#0000ff", width: 3, opacity: 1, tool: "pen"…}
+ App.js:71
+touchmove
+MouseEvent {dataTransfer: null, toElement: canvas#container-1010.x-container x-container-default, fromElement: canvas#container-1010.x-container x-container-default, y: 277, x: 109…}
+ App.js:83
+Mark App point  109 277 258
+Object {color: Array[3], colorAsHTML: "#0000ff", width: 3, opacity: 1, tool: "pen"…}
+ App.js:71
+touchmove
+MouseEvent {dataTransfer: null, toElement: canvas#container-1010.x-container x-container-default, fromElement: canvas#container-1010.x-container x-container-default, y: 277, x: 109…}
+ App.js:83
+Mark App point  109 277 258
+Object {color: Array[3], colorAsHTML: "#0000ff", width: 3, opacity: 1, tool: "pen"…}
+ App.js:71
+touchmove
+MouseEvent {dataTransfer: null, toElement: canvas#container-1010.x-container x-container-default, fromElement: canvas#container-1010.x-container x-container-default, y: 277, x: 109…}
+ App.js:83
+Mark App point  109 277 258
+Object {color: Array[3], colorAsHTML: "#0000ff", width: 3, opacity: 1, tool: "pen"…}
+ App.js:71
+touchmove
+MouseEvent {dataTransfer: null, toElement: canvas#container-1010.x-container x-container-default, fromElement: canvas#container-1010.x-container x-container-default, y: 277, x: 109…}
+ App.js:83
+Mark App point  109 277 258
+Object {color: Array[3], colorAsHTML: "#0000ff", width: 3, opacity: 1, tool: "pen"…}
+ App.js:71
+touchmove
+MouseEvent {dataTransfer: null, toElement: canvas#container-1010.x-container x-container-default, fromElement: canvas#container-1010.x-container x-container-default, y: 277, x: 109…}
+ App.js:83
+Mark App point  109 277 258
+Object {color: Array[3], colorAsHTML: "#0000ff", width: 3, opacity: 1, tool: "pen"…}
+ App.js:71
+touchmove
+MouseEvent {dataTransfer: null, toElement: canvas#container-1010.x-container x-container-default, fromElement: canvas#container-1010.x-container x-container-default, y: 277, x: 109…}
+ App.js:83
+Mark App point  109 277 258
+Object {color: Array[3], colorAsHTML: "#0000ff", width: 3, opacity: 1, tool: "pen"…}
+ App.js:71
+touchmove
+MouseEvent {dataTransfer: null, toElement: canvas#container-1010.x-container x-container-default, fromElement: canvas#container-1010.x-container x-container-default, y: 277, x: 109…}
+ App.js:83
+Mark App point  109 277 258
+Object {color: Array[3], colorAsHTML: "#0000ff", width: 3, opacity: 1, tool: "pen"…}
+ App.js:71
+touchmove
+MouseEvent {dataTransfer: null, toElement: canvas#container-1010.x-container x-container-default, fromElement: canvas#container-1010.x-container x-container-default, y: 277, x: 109…}
+ App.js:83
+Mark App point  109 277 258
+Object {color: Array[3], colorAsHTML: "#0000ff", width: 3, opacity: 1, tool: "pen"…}
+ App.js:71
+touchmove
+MouseEvent {dataTransfer: null, toElement: canvas#container-1010.x-container x-container-default, fromElement: canvas#container-1010.x-container x-container-default, y: 277, x: 109…}
+ App.js:83
+Mark App point  109 277 258
+Object {color: Array[3], colorAsHTML: "#0000ff", width: 3, opacity: 1, tool: "pen"…}
+ App.js:71
+touchmove
+MouseEvent {dataTransfer: null, toElement: canvas#container-1010.x-container x-container-default, fromElement: canvas#container-1010.x-container x-container-default, y: 277, x: 109…}
+ App.js:83
+Mark App point  109 277 258
+Object {color: Array[3], colorAsHTML: "#0000ff", width: 3, opacity: 1, tool: "pen"…}
+ App.js:71
+touchmove
+MouseEvent {dataTransfer: null, toElement: canvas#container-1010.x-container x-container-default, fromElement: canvas#container-1010.x-container x-container-default, y: 277, x: 109…}
+ App.js:83
+Mark App point  109 277 258
+Object {color: Array[3], colorAsHTML: "#0000ff", width: 3, opacity: 1, tool: "pen"…}
+ App.js:71
+touchmove
+MouseEvent {dataTransfer: null, toElement: canvas#container-1010.x-container x-container-default, fromElement: canvas#container-1010.x-container x-container-default, y: 277, x: 109…}
+ App.js:83
+Mark App point  109 277 258
+Object {color: Array[3], colorAsHTML: "#0000ff", width: 3, opacity: 1, tool: "pen"…}
+ App.js:71
+touchmove
+MouseEvent {dataTransfer: null, toElement: canvas#container-1010.x-container x-container-default, fromElement: canvas#container-1010.x-container x-container-default, y: 277, x: 109…}
+ App.js:83
+Mark App point  109 277 258
+Object {color: Array[3], colorAsHTML: "#0000ff", width: 3, opacity: 1, tool: "pen"…}
+ App.js:71
+touchmove
+MouseEvent {dataTransfer: null, toElement: canvas#container-1010.x-container x-container-default, fromElement: canvas#container-1010.x-container x-container-default, y: 277, x: 109…}
+ App.js:83
+Mark App point  109 277 258
+Object {color: Array[3], colorAsHTML: "#0000ff", width: 3, opacity: 1, tool: "pen"…}
+ App.js:71
+touchmove
+MouseEvent {dataTransfer: null, toElement: canvas#container-1010.x-container x-container-default, fromElement: canvas#container-1010.x-container x-container-default, y: 277, x: 109…}
+ App.js:83
+Mark App point  109 277 258
+Object {color: Array[3], colorAsHTML: "#0000ff", width: 3, opacity: 1, tool: "pen"…}
+ App.js:71
+touchmove
+MouseEvent {dataTransfer: null, toElement: canvas#container-1010.x-container x-container-default, fromElement: canvas#container-1010.x-container x-container-default, y: 277, x: 109…}
+ App.js:83
+Mark App point  109 277 258
+Object {color: Array[3], colorAsHTML: "#0000ff", width: 3, opacity: 1, tool: "pen"…}
+ App.js:71
+touchmove
+MouseEvent {dataTransfer: null, toElement: canvas#container-1010.x-container x-container-default, fromElement: canvas#container-1010.x-container x-container-default, y: 277, x: 109…}
+ App.js:83
+Mark App point  109 277 258
+Object {color: Array[3], colorAsHTML: "#0000ff", width: 3, opacity: 1, tool: "pen"…}
+ App.js:71
+touchmove
+MouseEvent {dataTransfer: null, toElement: canvas#container-1010.x-container x-container-default, fromElement: canvas#container-1010.x-container x-container-default, y: 277, x: 109…}
+ App.js:83
+Mark App point  109 277 258
+Object {color: Array[3], colorAsHTML: "#0000ff", width: 3, opacity: 1, tool: "pen"…}
+ App.js:71
+touchmove
+MouseEvent {dataTransfer: null, toElement: canvas#container-1010.x-container x-container-default, fromElement: canvas#container-1010.x-container x-container-default, y: 277, x: 109…}
+ App.js:83
+Mark App point  109 277 258
+Object {color: Array[3], colorAsHTML: "#0000ff", width: 3, opacity: 1, tool: "pen"…}
+ App.js:71
+touchmove
+MouseEvent {dataTransfer: null, toElement: canvas#container-1010.x-container x-container-default, fromElement: canvas#container-1010.x-container x-container-default, y: 277, x: 109…}
+ App.js:83
+Mark App point  109 277 258
+Object {color: Array[3], colorAsHTML: "#0000ff", width: 3, opacity: 1, tool: "pen"…}
+ App.js:71
+touchmove
+MouseEvent {dataTransfer: null, toElement: canvas#container-1010.x-container x-container-default, fromElement: canvas#container-1010.x-container x-container-default, y: 277, x: 109…}
+ App.js:83
+Mark App point  109 277 258
+Object {color: Array[3], colorAsHTML: "#0000ff", width: 3, opacity: 1, tool: "pen"…}
+ App.js:71
+touchmove
+MouseEvent {dataTransfer: null, toElement: canvas#container-1010.x-container x-container-default, fromElement: canvas#container-1010.x-container x-container-default, y: 277, x: 109…}
+ App.js:83
+Mark App point  109 277 258
+Object {color: Array[3], colorAsHTML: "#0000ff", width: 3, opacity: 1, tool: "pen"…}
+ App.js:71
+touchmove
+MouseEvent {dataTransfer: null, toElement: canvas#container-1010.x-container x-container-default, fromElement: canvas#container-1010.x-container x-container-default, y: 277, x: 109…}
+ App.js:83
+Mark App point  109 277 258
+Object {color: Array[3], colorAsHTML: "#0000ff", width: 3, opacity: 1, tool: "pen"…}
+ App.js:71
+touchmove
+MouseEvent {dataTransfer: null, toElement: canvas#container-1010.x-container x-container-default, fromElement: canvas#container-1010.x-container x-container-default, y: 277, x: 109…}
+ App.js:83
+Mark App point  109 277 258
+Object {color: Array[3], colorAsHTML: "#0000ff", width: 3, opacity: 1, tool: "pen"…}
+ App.js:71
+touchmove
+MouseEvent {dataTransfer: null, toElement: canvas#container-1010.x-container x-container-default, fromElement: canvas#container-1010.x-container x-container-default, y: 277, x: 109…}
+ App.js:83
+Mark App point  109 277 258
+Object {color: Array[3], colorAsHTML: "#0000ff", width: 3, opacity: 1, tool: "pen"…}
+ App.js:71
+touchmove
+MouseEvent {dataTransfer: null, toElement: canvas#container-1010.x-container x-container-default, fromElement: canvas#container-1010.x-container x-container-default, y: 277, x: 109…}
+ App.js:83
+Mark App point  109 276 258
+Object {color: Array[3], colorAsHTML: "#0000ff", width: 3, opacity: 1, tool: "pen"…}
+ App.js:71
+touchmove
+MouseEvent {dataTransfer: null, toElement: canvas#container-1010.x-container x-container-default, fromElement: canvas#container-1010.x-container x-container-default, y: 276, x: 109…}
+ App.js:83
+Mark App point  110 276 258
+Object {color: Array[3], colorAsHTML: "#0000ff", width: 3, opacity: 1, tool: "pen"…}
+ App.js:71
+touchmove
+MouseEvent {dataTransfer: null, toElement: canvas#container-1010.x-container x-container-default, fromElement: canvas#container-1010.x-container x-container-default, y: 276, x: 110…}
+ App.js:83
+Mark App point  110 276 258
+Object {color: Array[3], colorAsHTML: "#0000ff", width: 3, opacity: 1, tool: "pen"…}
+ App.js:71
+touchmove
+MouseEvent {dataTransfer: null, toElement: canvas#container-1010.x-container x-container-default, fromElement: canvas#container-1010.x-container x-container-default, y: 276, x: 110…}
+ App.js:83
+Mark App point  110 276 258
+Object {color: Array[3], colorAsHTML: "#0000ff", width: 3, opacity: 1, tool: "pen"…}
+ App.js:71
+touchmove
+MouseEvent {dataTransfer: null, toElement: canvas#container-1010.x-container x-container-default, fromElement: canvas#container-1010.x-container x-container-default, y: 276, x: 110…}
+ App.js:83
+Mark App point  110 276 258
+Object {color: Array[3], colorAsHTML: "#0000ff", width: 3, opacity: 1, tool: "pen"…}
+ App.js:71
+touchmove
+MouseEvent {dataTransfer: null, toElement: canvas#container-1010.x-container x-container-default, fromElement: canvas#container-1010.x-container x-container-default, y: 276, x: 110…}
+ App.js:83
+Mark App point  110 275 258
+Object {color: Array[3], colorAsHTML: "#0000ff", width: 3, opacity: 1, tool: "pen"…}
+ App.js:71
+touchmove
+MouseEvent {dataTransfer: null, toElement: canvas#container-1010.x-container x-container-default, fromElement: canvas#container-1010.x-container x-container-default, y: 275, x: 110…}
+ App.js:83
+Mark App point  111 275 258
+Object {color: Array[3], colorAsHTML: "#0000ff", width: 3, opacity: 1, tool: "pen"…}
+ App.js:71
+touchmove
+MouseEvent {dataTransfer: null, toElement: canvas#container-1010.x-container x-container-default, fromElement: canvas#container-1010.x-container x-container-default, y: 275, x: 111…}
+ App.js:83
+Mark App point  111 274 258
+Object {color: Array[3], colorAsHTML: "#0000ff", width: 3, opacity: 1, tool: "pen"…}
+ App.js:71
+touchmove
+MouseEvent {dataTransfer: null, toElement: canvas#container-1010.x-container x-container-default, fromElement: canvas#container-1010.x-container x-container-default, y: 274, x: 111…}
+ App.js:83
+Mark App point  111 274 258
+Object {color: Array[3], colorAsHTML: "#0000ff", width: 3, opacity: 1, tool: "pen"…}
+ App.js:71
+touchmove
+MouseEvent {dataTransfer: null, toElement: canvas#container-1010.x-container x-container-default, fromElement: canvas#container-1010.x-container x-container-default, y: 274, x: 111…}
+ App.js:83
+Mark App point  112 273 258
+Object {color: Array[3], colorAsHTML: "#0000ff", width: 3, opacity: 1, tool: "pen"…}
+ App.js:71
+touchmove
+MouseEvent {dataTransfer: null, toElement: canvas#container-1010.x-container x-container-default, fromElement: canvas#container-1010.x-container x-container-default, y: 273, x: 112…}
+ App.js:83
+Mark App point  113 273 258
+Object {color: Array[3], colorAsHTML: "#0000ff", width: 3, opacity: 1, tool: "pen"…}
+ App.js:71
+touchmove
+MouseEvent {dataTransfer: null, toElement: canvas#container-1010.x-container x-container-default, fromElement: canvas#container-1010.x-container x-container-default, y: 273, x: 113…}
+ App.js:83
+Mark App point  113 272 258
+Object {color: Array[3], colorAsHTML: "#0000ff", width: 3, opacity: 1, tool: "pen"…}
+ App.js:71
+touchmove
+MouseEvent {dataTransfer: null, toElement: canvas#container-1010.x-container x-container-default, fromElement: canvas#container-1010.x-container x-container-default, y: 272, x: 113…}
+ App.js:83
+Mark App point  114 272 258
+Object {color: Array[3], colorAsHTML: "#0000ff", width: 3, opacity: 1, tool: "pen"…}
+ App.js:71
+touchmove
+MouseEvent {dataTransfer: null, toElement: canvas#container-1010.x-container x-container-default, fromElement: canvas#container-1010.x-container x-container-default, y: 272, x: 114…}
+ App.js:83
+Mark App point  115 271 258
+Object {color: Array[3], colorAsHTML: "#0000ff", width: 3, opacity: 1, tool: "pen"…}
+ App.js:71
+touchmove
+MouseEvent {dataTransfer: null, toElement: canvas#container-1010.x-container x-container-default, fromElement: canvas#container-1010.x-container x-container-default, y: 271, x: 115…}
+ App.js:83
+Mark App point  116 270 258
+Object {color: Array[3], colorAsHTML: "#0000ff", width: 3, opacity: 1, tool: "pen"…}
+ App.js:71
+touchmove
+MouseEvent {dataTransfer: null, toElement: canvas#container-1010.x-container x-container-default, fromElement: canvas#container-1010.x-container x-container-default, y: 270, x: 116…}
+ App.js:83
+Mark App point  116 270 258
+Object {color: Array[3], colorAsHTML: "#0000ff", width: 3, opacity: 1, tool: "pen"…}
+ App.js:71
+touchmove
+MouseEvent {dataTransfer: null, toElement: canvas#container-1010.x-container x-container-default, fromElement: canvas#container-1010.x-container x-container-default, y: 270, x: 116…}
+ App.js:83
+Mark App point  117 269 258
+Object {color: Array[3], colorAsHTML: "#0000ff", width: 3, opacity: 1, tool: "pen"…}
+ App.js:71
+touchmove
+MouseEvent {dataTransfer: null, toElement: canvas#container-1010.x-container x-container-default, fromElement: canvas#container-1010.x-container x-container-default, y: 269, x: 117…}
+ App.js:83
+Mark App point  118 268 258
+Object {color: Array[3], colorAsHTML: "#0000ff", width: 3, opacity: 1, tool: "pen"…}
+ App.js:71
+touchmove
+MouseEvent {dataTransfer: null, toElement: canvas#container-1010.x-container x-container-default, fromElement: canvas#container-1010.x-container x-container-default, y: 268, x: 118…}
+ App.js:83
+Mark App point  119 267 258
+Object {color: Array[3], colorAsHTML: "#0000ff", width: 3, opacity: 1, tool: "pen"…}
+ App.js:71
+touchmove
+MouseEvent {dataTransfer: null, toElement: canvas#container-1010.x-container x-container-default, fromElement: canvas#container-1010.x-container x-container-default, y: 267, x: 119…}
+ App.js:83
+Mark App point  120 267 258
+Object {color: Array[3], colorAsHTML: "#0000ff", width: 3, opacity: 1, tool: "pen"…}
+ App.js:71
+touchmove
+MouseEvent {dataTransfer: null, toElement: canvas#container-1010.x-container x-container-default, fromElement: canvas#container-1010.x-container x-container-default, y: 267, x: 120…}
+ App.js:83
+Mark App point  121 266 258
+Object {color: Array[3], colorAsHTML: "#0000ff", width: 3, opacity: 1, tool: "pen"…}
+ App.js:71
+touchmove
+MouseEvent {dataTransfer: null, toElement: canvas#container-1010.x-container x-container-default, fromElement: canvas#container-1010.x-container x-container-default, y: 266, x: 121…}
+ App.js:83
+Mark App point  123 265 258
+Object {color: Array[3], colorAsHTML: "#0000ff", width: 3, opacity: 1, tool: "pen"…}
+ App.js:71
+touchmove
+MouseEvent {dataTransfer: null, toElement: canvas#container-1010.x-container x-container-default, fromElement: canvas#container-1010.x-container x-container-default, y: 265, x: 123…}
+ App.js:83
+Mark App point  124 264 258
+Object {color: Array[3], colorAsHTML: "#0000ff", width: 3, opacity: 1, tool: "pen"…}
+ App.js:71
+touchmove
+MouseEvent {dataTransfer: null, toElement: canvas#container-1010.x-container x-container-default, fromElement: canvas#container-1010.x-container x-container-default, y: 264, x: 124…}
+ App.js:83
+Mark App point  125 264 258
+Object {color: Array[3], colorAsHTML: "#0000ff", width: 3, opacity: 1, tool: "pen"…}
+ App.js:71
+touchmove
+MouseEvent {dataTransfer: null, toElement: canvas#container-1010.x-container x-container-default, fromElement: canvas#container-1010.x-container x-container-default, y: 264, x: 125…}
+ App.js:83
+Mark App point  126 263 258
+Object {color: Array[3], colorAsHTML: "#0000ff", width: 3, opacity: 1, tool: "pen"…}
+ App.js:71
+touchmove
+MouseEvent {dataTransfer: null, toElement: canvas#container-1010.x-container x-container-default, fromElement: canvas#container-1010.x-container x-container-default, y: 263, x: 126…}
+ App.js:83
+Mark App point  128 262 258
+Object {color: Array[3], colorAsHTML: "#0000ff", width: 3, opacity: 1, tool: "pen"…}
+ App.js:71
+touchmove
+MouseEvent {dataTransfer: null, toElement: canvas#container-1010.x-container x-container-default, fromElement: canvas#container-1010.x-container x-container-default, y: 262, x: 128…}
+ App.js:83
+Mark App point  129 261 258
+Object {color: Array[3], colorAsHTML: "#0000ff", width: 3, opacity: 1, tool: "pen"…}
+ App.js:71
+touchmove
+MouseEvent {dataTransfer: null, toElement: canvas#container-1010.x-container x-container-default, fromElement: canvas#container-1010.x-container x-container-default, y: 261, x: 129…}
+ App.js:83
+Mark App point  131 260 258
+Object {color: Array[3], colorAsHTML: "#0000ff", width: 3, opacity: 1, tool: "pen"…}
+ App.js:71
+touchmove
+MouseEvent {dataTransfer: null, toElement: canvas#container-1010.x-container x-container-default, fromElement: canvas#container-1010.x-container x-container-default, y: 260, x: 131…}
+ App.js:83
+Mark App point  132 259 258
+Object {color: Array[3], colorAsHTML: "#0000ff", width: 3, opacity: 1, tool: "pen"…}
+ App.js:71
+touchmove
+MouseEvent {dataTransfer: null, toElement: canvas#container-1010.x-container x-container-default, fromElement: canvas#container-1010.x-container x-container-default, y: 259, x: 132…}
+ App.js:83
+Mark App point  133 259 258
+Object {color: Array[3], colorAsHTML: "#0000ff", width: 3, opacity: 1, tool: "pen"…}
+ App.js:71
+touchmove
+MouseEvent {dataTransfer: null, toElement: canvas#container-1010.x-container x-container-default, fromElement: canvas#container-1010.x-container x-container-default, y: 259, x: 133…}
+ App.js:83
+Mark App point  135 258 258
+Object {color: Array[3], colorAsHTML: "#0000ff", width: 3, opacity: 1, tool: "pen"…}
+ App.js:71
+touchmove
+MouseEvent {dataTransfer: null, toElement: canvas#container-1010.x-container x-container-default, fromElement: canvas#container-1010.x-container x-container-default, y: 258, x: 135…}
+ App.js:83
+Mark App point  137 257 258
+Object {color: Array[3], colorAsHTML: "#0000ff", width: 3, opacity: 1, tool: "pen"…}
+ App.js:71
+touchmove
+MouseEvent {dataTransfer: null, toElement: canvas#container-1010.x-container x-container-default, fromElement: canvas#container-1010.x-container x-container-default, y: 257, x: 137…}
+ App.js:83
+Mark App point  138 256 258
+Object {color: Array[3], colorAsHTML: "#0000ff", width: 3, opacity: 1, tool: "pen"…}
+ App.js:71
+touchmove
+MouseEvent {dataTransfer: null, toElement: canvas#container-1010.x-container x-container-default, fromElement: canvas#container-1010.x-container x-container-default, y: 256, x: 138…}
+ App.js:83
+Mark App point  140 255 258
+Object {color: Array[3], colorAsHTML: "#0000ff", width: 3, opacity: 1, tool: "pen"…}
+ App.js:71
+touchmove
+MouseEvent {dataTransfer: null, toElement: canvas#container-1010.x-container x-container-default, fromElement: canvas#container-1010.x-container x-container-default, y: 255, x: 140…}
+ App.js:83
+Mark App point  142 254 258
+Object {color: Array[3], colorAsHTML: "#0000ff", width: 3, opacity: 1, tool: "pen"…}
+ App.js:71
+touchmove
+MouseEvent {dataTransfer: null, toElement: canvas#container-1010.x-container x-container-default, fromElement: canvas#container-1010.x-container x-container-default, y: 254, x: 142…}
+ App.js:83
+Mark App point  144 254 258
+Object {color: Array[3], colorAsHTML: "#0000ff", width: 3, opacity: 1, tool: "pen"…}
+ App.js:71
+touchmove
+MouseEvent {dataTransfer: null, toElement: canvas#container-1010.x-container x-container-default, fromElement: canvas#container-1010.x-container x-container-default, y: 254, x: 144…}
+ App.js:83
+Mark App point  145 253 258
+Object {color: Array[3], colorAsHTML: "#0000ff", width: 3, opacity: 1, tool: "pen"…}
+ App.js:71
+touchmove
+MouseEvent {dataTransfer: null, toElement: canvas#container-1010.x-container x-container-default, fromElement: canvas#container-1010.x-container x-container-default, y: 253, x: 145…}
+ App.js:83
+Mark App point  147 252 258
+Object {color: Array[3], colorAsHTML: "#0000ff", width: 3, opacity: 1, tool: "pen"…}
+ App.js:71
+touchmove
+MouseEvent {dataTransfer: null, toElement: canvas#container-1010.x-container x-container-default, fromElement: canvas#container-1010.x-container x-container-default, y: 252, x: 147…}
+ App.js:83
+Mark App point  149 251 258
+Object {color: Array[3], colorAsHTML: "#0000ff", width: 3, opacity: 1, tool: "pen"…}
+ App.js:71
+touchmove
+MouseEvent {dataTransfer: null, toElement: canvas#container-1010.x-container x-container-default, fromElement: canvas#container-1010.x-container x-container-default, y: 251, x: 149…}
+ App.js:83
+Mark App point  151 250 258
+Object {color: Array[3], colorAsHTML: "#0000ff", width: 3, opacity: 1, tool: "pen"…}
+ App.js:71
+touchmove
+MouseEvent {dataTransfer: null, toElement: canvas#container-1010.x-container x-container-default, fromElement: canvas#container-1010.x-container x-container-default, y: 250, x: 151…}
+ App.js:83
+Mark App point  153 249 258
+Object {color: Array[3], colorAsHTML: "#0000ff", width: 3, opacity: 1, tool: "pen"…}
+ App.js:71
+touchmove
+MouseEvent {dataTransfer: null, toElement: canvas#container-1010.x-container x-container-default, fromElement: canvas#container-1010.x-container x-container-default, y: 249, x: 153…}
+ App.js:83
+Mark App point  155 249 258
+Object {color: Array[3], colorAsHTML: "#0000ff", width: 3, opacity: 1, tool: "pen"…}
+ App.js:71
+touchmove
+MouseEvent {dataTransfer: null, toElement: canvas#container-1010.x-container x-container-default, fromElement: canvas#container-1010.x-container x-container-default, y: 249, x: 155…}
+ App.js:83
+Mark App point  157 248 258
+Object {color: Array[3], colorAsHTML: "#0000ff", width: 3, opacity: 1, tool: "pen"…}
+ App.js:71
+touchmove
+MouseEvent {dataTransfer: null, toElement: canvas#container-1010.x-container x-container-default, fromElement: canvas#container-1010.x-container x-container-default, y: 248, x: 157…}
+ App.js:83
+Mark App point  159 247 258
+Object {color: Array[3], colorAsHTML: "#0000ff", width: 3, opacity: 1, tool: "pen"…}
+ App.js:71
+touchmove
+MouseEvent {dataTransfer: null, toElement: canvas#container-1010.x-container x-container-default, fromElement: canvas#container-1010.x-container x-container-default, y: 247, x: 159…}
+ App.js:83
+Mark App point  162 246 258
+Object {color: Array[3], colorAsHTML: "#0000ff", width: 3, opacity: 1, tool: "pen"…}
+ App.js:71
+touchmove
+MouseEvent {dataTransfer: null, toElement: canvas#container-1010.x-container x-container-default, fromElement: canvas#container-1010.x-container x-container-default, y: 246, x: 162…}
+ App.js:83
+Mark App point  164 245 258
+Object {color: Array[3], colorAsHTML: "#0000ff", width: 3, opacity: 1, tool: "pen"…}
+ App.js:71
+touchmove
+MouseEvent {dataTransfer: null, toElement: canvas#container-1010.x-container x-container-default, fromElement: canvas#container-1010.x-container x-container-default, y: 245, x: 164…}
+ App.js:83
+Mark App point  166 244 258
+Object {color: Array[3], colorAsHTML: "#0000ff", width: 3, opacity: 1, tool: "pen"…}
+ App.js:71
+touchmove
+MouseEvent {dataTransfer: null, toElement: canvas#container-1010.x-container x-container-default, fromElement: canvas#container-1010.x-container x-container-default, y: 244, x: 166…}
+ App.js:83
+Mark App point  169 243 258
+Object {color: Array[3], colorAsHTML: "#0000ff", width: 3, opacity: 1, tool: "pen"…}
+ App.js:71
+touchmove
+MouseEvent {dataTransfer: null, toElement: canvas#container-1010.x-container x-container-default, fromElement: canvas#container-1010.x-container x-container-default, y: 243, x: 169…}
+ App.js:83
+Mark App point  170 243 258
+Object {color: Array[3], colorAsHTML: "#0000ff", width: 3, opacity: 1, tool: "pen"…}
+ App.js:71
+touchmove
+MouseEvent {dataTransfer: null, toElement: canvas#container-1010.x-container x-container-default, fromElement: canvas#container-1010.x-container x-container-default, y: 243, x: 170…}
+ App.js:83
+Mark App point  173 242 258
+Object {color: Array[3], colorAsHTML: "#0000ff", width: 3, opacity: 1, tool: "pen"…}
+ App.js:71
+touchmove
+MouseEvent {dataTransfer: null, toElement: canvas#container-1010.x-container x-container-default, fromElement: canvas#container-1010.x-container x-container-default, y: 242, x: 173…}
+ App.js:83
+Mark App point  175 241 258
+Object {color: Array[3], colorAsHTML: "#0000ff", width: 3, opacity: 1, tool: "pen"…}
+ App.js:71
+touchmove
+MouseEvent {dataTransfer: null, toElement: canvas#container-1010.x-container x-container-default, fromElement: canvas#container-1010.x-container x-container-default, y: 241, x: 175…}
+ App.js:83
+Mark App point  177 240 258
+Object {color: Array[3], colorAsHTML: "#0000ff", width: 3, opacity: 1, tool: "pen"…}
+ App.js:71
+touchmove
+MouseEvent {dataTransfer: null, toElement: canvas#container-1010.x-container x-container-default, fromElement: canvas#container-1010.x-container x-container-default, y: 240, x: 177…}
+ App.js:83
+Mark App point  180 240 258
+Object {color: Array[3], colorAsHTML: "#0000ff", width: 3, opacity: 1, tool: "pen"…}
+ App.js:71
+touchmove
+MouseEvent {dataTransfer: null, toElement: canvas#container-1010.x-container x-container-default, fromElement: canvas#container-1010.x-container x-container-default, y: 240, x: 180…}
+ App.js:83
+Mark App point  182 239 258
+Object {color: Array[3], colorAsHTML: "#0000ff", width: 3, opacity: 1, tool: "pen"…}
+ App.js:71
+touchmove
+MouseEvent {dataTransfer: null, toElement: canvas#container-1010.x-container x-container-default, fromElement: canvas#container-1010.x-container x-container-default, y: 239, x: 182…}
+ App.js:83
+Mark App point  184 238 258
+Object {color: Array[3], colorAsHTML: "#0000ff", width: 3, opacity: 1, tool: "pen"…}
+ App.js:71
+touchmove
+MouseEvent {dataTransfer: null, toElement: canvas#container-1010.x-container x-container-default, fromElement: canvas#container-1010.x-container x-container-default, y: 238, x: 184…}
+ App.js:83
+Mark App point  187 237 258
+Object {color: Array[3], colorAsHTML: "#0000ff", width: 3, opacity: 1, tool: "pen"…}
+ App.js:71
+touchmove
+MouseEvent {dataTransfer: null, toElement: canvas#container-1010.x-container x-container-default, fromElement: canvas#container-1010.x-container x-container-default, y: 237, x: 187…}
+ App.js:83
+Mark App point  189 236 258
+Object {color: Array[3], colorAsHTML: "#0000ff", width: 3, opacity: 1, tool: "pen"…}
+ App.js:71
+touchmove
+MouseEvent {dataTransfer: null, toElement: canvas#container-1010.x-container x-container-default, fromElement: canvas#container-1010.x-container x-container-default, y: 236, x: 189…}
+ App.js:83
+Mark App point  192 236 258
+Object {color: Array[3], colorAsHTML: "#0000ff", width: 3, opacity: 1, tool: "pen"…}
+ App.js:71
+touchmove
+MouseEvent {dataTransfer: null, toElement: canvas#container-1010.x-container x-container-default, fromElement: canvas#container-1010.x-container x-container-default, y: 236, x: 192…}
+ App.js:83
+Mark App point  195 235 258
+Object {color: Array[3], colorAsHTML: "#0000ff", width: 3, opacity: 1, tool: "pen"…}
+ App.js:71
+touchmove
+MouseEvent {dataTransfer: null, toElement: canvas#container-1010.x-container x-container-default, fromElement: canvas#container-1010.x-container x-container-default, y: 235, x: 195…}
+ App.js:83
+Mark App point  197 233 258
+Object {color: Array[3], colorAsHTML: "#0000ff", width: 3, opacity: 1, tool: "pen"…}
+ App.js:71
+touchmove
+MouseEvent {dataTransfer: null, toElement: canvas#container-1010.x-container x-container-default, fromElement: canvas#container-1010.x-container x-container-default, y: 233, x: 197…}
+ App.js:83
+Mark App point  201 232 258
+Object {color: Array[3], colorAsHTML: "#0000ff", width: 3, opacity: 1, tool: "pen"…}
+ App.js:71
+touchmove
+MouseEvent {dataTransfer: null, toElement: canvas#container-1010.x-container x-container-default, fromElement: canvas#container-1010.x-container x-container-default, y: 232, x: 201…}
+ App.js:83
+Mark App point  204 231 258
+Object {color: Array[3], colorAsHTML: "#0000ff", width: 3, opacity: 1, tool: "pen"…}
+ App.js:71
+touchmove
+MouseEvent {dataTransfer: null, toElement: canvas#container-1010.x-container x-container-default, fromElement: canvas#container-1010.x-container x-container-default, y: 231, x: 204…}
+ App.js:83
+Mark App point  208 230 258
+Object {color: Array[3], colorAsHTML: "#0000ff", width: 3, opacity: 1, tool: "pen"…}
+ App.js:71
+touchmove
+MouseEvent {dataTransfer: null, toElement: canvas#container-1010.x-container x-container-default, fromElement: canvas#container-1010.x-container x-container-default, y: 230, x: 208…}
+ App.js:83
+Mark App point  211 229 258
+Object {color: Array[3], colorAsHTML: "#0000ff", width: 3, opacity: 1, tool: "pen"…}
+ App.js:71
+touchmove
+MouseEvent {dataTransfer: null, toElement: canvas#container-1010.x-container x-container-default, fromElement: canvas#container-1010.x-container x-container-default, y: 229, x: 211…}
+ App.js:83
+Mark App point  215 227 258
+Object {color: Array[3], colorAsHTML: "#0000ff", width: 3, opacity: 1, tool: "pen"…}
+ App.js:71
+touchmove
+MouseEvent {dataTransfer: null, toElement: canvas#container-1010.x-container x-container-default, fromElement: canvas#container-1010.x-container x-container-default, y: 227, x: 215…}
+ App.js:83
+Mark App point  218 226 258
+Object {color: Array[3], colorAsHTML: "#0000ff", width: 3, opacity: 1, tool: "pen"…}
+ App.js:71
+touchmove
+MouseEvent {dataTransfer: null, toElement: canvas#container-1010.x-container x-container-default, fromElement: canvas#container-1010.x-container x-container-default, y: 226, x: 218…}
+ App.js:83
+Mark App point  220 226 258
+Object {color: Array[3], colorAsHTML: "#0000ff", width: 3, opacity: 1, tool: "pen"…}
+ App.js:71
+touchmove
+MouseEvent {dataTransfer: null, toElement: canvas#container-1010.x-container x-container-default, fromElement: canvas#container-1010.x-container x-container-default, y: 226, x: 220…}
+ App.js:83
+Mark App point  223 225 258
+Object {color: Array[3], colorAsHTML: "#0000ff", width: 3, opacity: 1, tool: "pen"…}
+ App.js:71
+touchmove
+MouseEvent {dataTransfer: null, toElement: canvas#container-1010.x-container x-container-default, fromElement: canvas#container-1010.x-container x-container-default, y: 225, x: 223…}
+ App.js:83
+Mark App point  226 224 258
+Object {color: Array[3], colorAsHTML: "#0000ff", width: 3, opacity: 1, tool: "pen"…}
+ App.js:71
+touchmove
+MouseEvent {dataTransfer: null, toElement: canvas#container-1010.x-container x-container-default, fromElement: canvas#container-1010.x-container x-container-default, y: 224, x: 226…}
+ App.js:83
+Mark App point  228 224 258
+Object {color: Array[3], colorAsHTML: "#0000ff", width: 3, opacity: 1, tool: "pen"…}
+ App.js:71
+touchmove
+MouseEvent {dataTransfer: null, toElement: canvas#container-1010.x-container x-container-default, fromElement: canvas#container-1010.x-container x-container-default, y: 224, x: 228…}
+ App.js:83
+Mark App point  231 223 258
+Object {color: Array[3], colorAsHTML: "#0000ff", width: 3, opacity: 1, tool: "pen"…}
+ App.js:71
+touchmove
+MouseEvent {dataTransfer: null, toElement: canvas#container-1010.x-container x-container-default, fromElement: canvas#container-1010.x-container x-container-default, y: 223, x: 231…}
+ App.js:83
+Mark App point  233 223 258
+Object {color: Array[3], colorAsHTML: "#0000ff", width: 3, opacity: 1, tool: "pen"…}
+ App.js:71
+touchmove
+MouseEvent {dataTransfer: null, toElement: canvas#container-1010.x-container x-container-default, fromElement: canvas#container-1010.x-container x-container-default, y: 223, x: 233…}
+ App.js:83
+Mark App point  236 222 258
+Object {color: Array[3], colorAsHTML: "#0000ff", width: 3, opacity: 1, tool: "pen"…}
+ App.js:71
+touchmove
+MouseEvent {dataTransfer: null, toElement: canvas#container-1010.x-container x-container-default, fromElement: canvas#container-1010.x-container x-container-default, y: 222, x: 236…}
+ App.js:83
+Mark App point  239 222 258
+Object {color: Array[3], colorAsHTML: "#0000ff", width: 3, opacity: 1, tool: "pen"…}
+ App.js:71
+touchmove
+MouseEvent {dataTransfer: null, toElement: canvas#container-1010.x-container x-container-default, fromElement: canvas#container-1010.x-container x-container-default, y: 222, x: 239…}
+ App.js:83
+Mark App point  241 221 258
+Object {color: Array[3], colorAsHTML: "#0000ff", width: 3, opacity: 1, tool: "pen"…}
+ App.js:71
+touchmove
+MouseEvent {dataTransfer: null, toElement: canvas#container-1010.x-container x-container-default, fromElement: canvas#container-1010.x-container x-container-default, y: 221, x: 241…}
+ App.js:83
+Mark App point  243 221 258
+Object {color: Array[3], colorAsHTML: "#0000ff", width: 3, opacity: 1, tool: "pen"…}
+ App.js:71
+touchmove
+MouseEvent {dataTransfer: null, toElement: canvas#container-1010.x-container x-container-default, fromElement: canvas#container-1010.x-container x-container-default, y: 221, x: 243…}
+ App.js:83
+Mark App point  246 220 258
+Object {color: Array[3], colorAsHTML: "#0000ff", width: 3, opacity: 1, tool: "pen"…}
+ App.js:71
+touchmove
+MouseEvent {dataTransfer: null, toElement: canvas#container-1010.x-container x-container-default, fromElement: canvas#container-1010.x-container x-container-default, y: 220, x: 246…}
+ App.js:83
+Mark App point  248 220 258
+Object {color: Array[3], colorAsHTML: "#0000ff", width: 3, opacity: 1, tool: "pen"…}
+ App.js:71
+touchmove
+MouseEvent {dataTransfer: null, toElement: canvas#container-1010.x-container x-container-default, fromElement: canvas#container-1010.x-container x-container-default, y: 220, x: 248…}
+ App.js:83
+Mark App point  250 220 258
+Object {color: Array[3], colorAsHTML: "#0000ff", width: 3, opacity: 1, tool: "pen"…}
+ App.js:71
+touchmove
+MouseEvent {dataTransfer: null, toElement: canvas#container-1010.x-container x-container-default, fromElement: canvas#container-1010.x-container x-container-default, y: 220, x: 250…}
+ App.js:83
+Mark App point  252 220 258
+Object {color: Array[3], colorAsHTML: "#0000ff", width: 3, opacity: 1, tool: "pen"…}
+ App.js:71
+touchmove
+MouseEvent {dataTransfer: null, toElement: canvas#container-1010.x-container x-container-default, fromElement: canvas#container-1010.x-container x-container-default, y: 220, x: 252…}
+ App.js:83
+Mark App point  254 219 258
+Object {color: Array[3], colorAsHTML: "#0000ff", width: 3, opacity: 1, tool: "pen"…}
+ App.js:71
+touchmove
+MouseEvent {dataTransfer: null, toElement: canvas#container-1010.x-container x-container-default, fromElement: canvas#container-1010.x-container x-container-default, y: 219, x: 254…}
+ App.js:83
+Mark App point  255 219 258
+Object {color: Array[3], colorAsHTML: "#0000ff", width: 3, opacity: 1, tool: "pen"…}
+ App.js:71
+touchmove
+MouseEvent {dataTransfer: null, toElement: canvas#container-1010.x-container x-container-default, fromElement: canvas#container-1010.x-container x-container-default, y: 219, x: 255…}
+ App.js:83
+Mark App point  256 219 258
+Object {color: Array[3], colorAsHTML: "#0000ff", width: 3, opacity: 1, tool: "pen"…}
+ App.js:71
+touchmove
+MouseEvent {dataTransfer: null, toElement: canvas#container-1010.x-container x-container-default, fromElement: canvas#container-1010.x-container x-container-default, y: 219, x: 256…}
+ App.js:83
+Mark App point  258 218 258
+Object {color: Array[3], colorAsHTML: "#0000ff", width: 3, opacity: 1, tool: "pen"…}
+ App.js:71
+touchmove
+MouseEvent {dataTransfer: null, toElement: canvas#container-1010.x-container x-container-default, fromElement: canvas#container-1010.x-container x-container-default, y: 218, x: 258…}
+ App.js:83
+Mark App point  259 218 258
+Object {color: Array[3], colorAsHTML: "#0000ff", width: 3, opacity: 1, tool: "pen"…}
+ App.js:71
+touchmove
+MouseEvent {dataTransfer: null, toElement: canvas#container-1010.x-container x-container-default, fromElement: canvas#container-1010.x-container x-container-default, y: 218, x: 259…}
+ App.js:83
+Mark App point  260 218 258
+Object {color: Array[3], colorAsHTML: "#0000ff", width: 3, opacity: 1, tool: "pen"…}
+ App.js:71
+touchmove
+MouseEvent {dataTransfer: null, toElement: canvas#container-1010.x-container x-container-default, fromElement: canvas#container-1010.x-container x-container-default, y: 218, x: 260…}
+ App.js:83
+Mark App point  261 218 258
+Object {color: Array[3], colorAsHTML: "#0000ff", width: 3, opacity: 1, tool: "pen"…}
+ App.js:71
+touchmove
+MouseEvent {dataTransfer: null, toElement: canvas#container-1010.x-container x-container-default, fromElement: canvas#container-1010.x-container x-container-default, y: 218, x: 261…}
+ App.js:83
+Mark App point  262 218 258
+Object {color: Array[3], colorAsHTML: "#0000ff", width: 3, opacity: 1, tool: "pen"…}
+ App.js:71
+touchmove
+MouseEvent {dataTransfer: null, toElement: canvas#container-1010.x-container x-container-default, fromElement: canvas#container-1010.x-container x-container-default, y: 218, x: 262…}
+ App.js:83
+Mark App point  262 218 258
+Object {color: Array[3], colorAsHTML: "#0000ff", width: 3, opacity: 1, tool: "pen"…}
+ App.js:71
+touchmove
+MouseEvent {dataTransfer: null, toElement: canvas#container-1010.x-container x-container-default, fromElement: canvas#container-1010.x-container x-container-default, y: 218, x: 262…}
+ App.js:83
+Mark App point  264 218 258
+Object {color: Array[3], colorAsHTML: "#0000ff", width: 3, opacity: 1, tool: "pen"…}
+ App.js:71
+touchmove
+MouseEvent {dataTransfer: null, toElement: canvas#container-1010.x-container x-container-default, fromElement: canvas#container-1010.x-container x-container-default, y: 218, x: 264…}
+ App.js:83
+Mark App point  264 218 258
+Object {color: Array[3], colorAsHTML: "#0000ff", width: 3, opacity: 1, tool: "pen"…}
+ App.js:71
+touchmove
+MouseEvent {dataTransfer: null, toElement: canvas#container-1010.x-container x-container-default, fromElement: canvas#container-1010.x-container x-container-default, y: 218, x: 264…}
+ App.js:83
+Mark App point  264 218 258
+Object {color: Array[3], colorAsHTML: "#0000ff", width: 3, opacity: 1, tool: "pen"…}
+ App.js:71
+touchmove
+MouseEvent {dataTransfer: null, toElement: canvas#container-1010.x-container x-container-default, fromElement: canvas#container-1010.x-container x-container-default, y: 218, x: 264…}
+ App.js:83
+Mark App point  265 218 258
+Object {color: Array[3], colorAsHTML: "#0000ff", width: 3, opacity: 1, tool: "pen"…}
+ App.js:71
+touchmove
+MouseEvent {dataTransfer: null, toElement: canvas#container-1010.x-container x-container-default, fromElement: canvas#container-1010.x-container x-container-default, y: 218, x: 265…}
+ App.js:83
+Mark App point  265 218 258
+Object {color: Array[3], colorAsHTML: "#0000ff", width: 3, opacity: 1, tool: "pen"…}
+ App.js:71
+touchmove
+MouseEvent {dataTransfer: null, toElement: canvas#container-1010.x-container x-container-default, fromElement: canvas#container-1010.x-container x-container-default, y: 218, x: 265…}
+ App.js:83
+Mark App point  265 218 258
+Object {color: Array[3], colorAsHTML: "#0000ff", width: 3, opacity: 1, tool: "pen"…}
+ App.js:71
+touchmove
+MouseEvent {dataTransfer: null, toElement: canvas#container-1010.x-container x-container-default, fromElement: canvas#container-1010.x-container x-container-default, y: 218, x: 265…}
+ App.js:83
+Mark App point  265 218 258
+Object {color: Array[3], colorAsHTML: "#0000ff", width: 3, opacity: 1, tool: "pen"…}
+ App.js:71
+touchmove
+MouseEvent {dataTransfer: null, toElement: canvas#container-1010.x-container x-container-default, fromElement: canvas#container-1010.x-container x-container-default, y: 218, x: 265…}
+ App.js:83
+Mark App point  265 218 258
+Object {color: Array[3], colorAsHTML: "#0000ff", width: 3, opacity: 1, tool: "pen"…}
+ App.js:71
+touchmove
+MouseEvent {dataTransfer: null, toElement: canvas#container-1010.x-container x-container-default, fromElement: canvas#container-1010.x-container x-container-default, y: 218, x: 265…}
+ App.js:83
+Mark App point  265 218 258
+Object {color: Array[3], colorAsHTML: "#0000ff", width: 3, opacity: 1, tool: "pen"…}
+ App.js:71
+touchmove
+MouseEvent {dataTransfer: null, toElement: canvas#container-1010.x-container x-container-default, fromElement: canvas#container-1010.x-container x-container-default, y: 218, x: 265…}
+ App.js:83
+Mark App point  265 218 258
+Object {color: Array[3], colorAsHTML: "#0000ff", width: 3, opacity: 1, tool: "pen"…}
+ App.js:71
+touchmove
+MouseEvent {dataTransfer: null, toElement: canvas#container-1010.x-container x-container-default, fromElement: canvas#container-1010.x-container x-container-default, y: 218, x: 265…}
+ App.js:83
+Mark App point  265 218 258
+Object {color: Array[3], colorAsHTML: "#0000ff", width: 3, opacity: 1, tool: "pen"…}
+ App.js:71
+touchmove
+MouseEvent {dataTransfer: null, toElement: canvas#container-1010.x-container x-container-default, fromElement: canvas#container-1010.x-container x-container-default, y: 218, x: 265…}
+ App.js:83
+Mark App point  265 218 258
+Object {color: Array[3], colorAsHTML: "#0000ff", width: 3, opacity: 1, tool: "pen"…}
+ App.js:71
+touchmove
+MouseEvent {dataTransfer: null, toElement: canvas#container-1010.x-container x-container-default, fromElement: canvas#container-1010.x-container x-container-default, y: 218, x: 265…}
+ App.js:83
+Mark App point  265 218 258
+Object {color: Array[3], colorAsHTML: "#0000ff", width: 3, opacity: 1, tool: "pen"…}
+ App.js:71
+touchmove
+MouseEvent {dataTransfer: null, toElement: canvas#container-1010.x-container x-container-default, fromElement: canvas#container-1010.x-container x-container-default, y: 218, x: 265…}
+ App.js:83
+Mark App point  265 218 258
+Object {color: Array[3], colorAsHTML: "#0000ff", width: 3, opacity: 1, tool: "pen"…}
+ App.js:71
+touchmove
+MouseEvent {dataTransfer: null, toElement: canvas#container-1010.x-container x-container-default, fromElement: canvas#container-1010.x-container x-container-default, y: 218, x: 265…}
+ App.js:83
+Mark App point  265 218 258
+Object {color: Array[3], colorAsHTML: "#0000ff", width: 3, opacity: 1, tool: "pen"…}
+ App.js:71
+touchmove
+MouseEvent {dataTransfer: null, toElement: canvas#container-1010.x-container x-container-default, fromElement: canvas#container-1010.x-container x-container-default, y: 218, x: 265…}
+ App.js:83
+Mark App point  265 218 258
+Object {color: Array[3], colorAsHTML: "#0000ff", width: 3, opacity: 1, tool: "pen"…}
+ App.js:71
+touchmove
+MouseEvent {dataTransfer: null, toElement: canvas#container-1010.x-container x-container-default, fromElement: canvas#container-1010.x-container x-container-default, y: 218, x: 265…}
+ App.js:83
+Mark App point  265 218 258
+Object {color: Array[3], colorAsHTML: "#0000ff", width: 3, opacity: 1, tool: "pen"…}
+ App.js:71
+touchmove
+MouseEvent {dataTransfer: null, toElement: canvas#container-1010.x-container x-container-default, fromElement: canvas#container-1010.x-container x-container-default, y: 218, x: 265…}
+ App.js:83
+Mark App point  265 218 258
+Object {color: Array[3], colorAsHTML: "#0000ff", width: 3, opacity: 1, tool: "pen"…}
+ App.js:71
+touchmove
+MouseEvent {dataTransfer: null, toElement: canvas#container-1010.x-container x-container-default, fromElement: canvas#container-1010.x-container x-container-default, y: 218, x: 265…}
+ App.js:83
+Mark App point  265 218 258
+Object {color: Array[3], colorAsHTML: "#0000ff", width: 3, opacity: 1, tool: "pen"…}
+ App.js:71
+touchmove
+MouseEvent {dataTransfer: null, toElement: canvas#container-1010.x-container x-container-default, fromElement: canvas#container-1010.x-container x-container-default, y: 218, x: 265…}
+ App.js:83
+Mark App point  265 218 258
+Object {color: Array[3], colorAsHTML: "#0000ff", width: 3, opacity: 1, tool: "pen"…}
+ App.js:71
+touchmove
+MouseEvent {dataTransfer: null, toElement: canvas#container-1010.x-container x-container-default, fromElement: canvas#container-1010.x-container x-container-default, y: 218, x: 265…}
+ App.js:83
+Mark App point  265 218 258
+Object {color: Array[3], colorAsHTML: "#0000ff", width: 3, opacity: 1, tool: "pen"…}
+ App.js:71
+touchmove
+MouseEvent {dataTransfer: null, toElement: canvas#container-1010.x-container x-container-default, fromElement: canvas#container-1010.x-container x-container-default, y: 218, x: 265…}
+ App.js:83
+Mark App point  265 218 258
+Object {color: Array[3], colorAsHTML: "#0000ff", width: 3, opacity: 1, tool: "pen"…}
+ App.js:71
+touchmove
+MouseEvent {dataTransfer: null, toElement: canvas#container-1010.x-container x-container-default, fromElement: canvas#container-1010.x-container x-container-default, y: 218, x: 265…}
+ App.js:83
+Mark App point  265 218 258
+Object {color: Array[3], colorAsHTML: "#0000ff", width: 3, opacity: 1, tool: "pen"…}
+ App.js:71
+touchmove
+MouseEvent {dataTransfer: null, toElement: canvas#container-1010.x-container x-container-default, fromElement: canvas#container-1010.x-container x-container-default, y: 218, x: 265…}
+ App.js:83
+Mark App point  265 218 258
+Object {color: Array[3], colorAsHTML: "#0000ff", width: 3, opacity: 1, tool: "pen"…}
+ App.js:71
+touchmove
+MouseEvent {dataTransfer: null, toElement: canvas#container-1010.x-container x-container-default, fromElement: canvas#container-1010.x-container x-container-default, y: 218, x: 265…}
+ App.js:83
+Mark App point  265 218 258
+Object {color: Array[3], colorAsHTML: "#0000ff", width: 3, opacity: 1, tool: "pen"…}
+ App.js:71
+touchmove
+MouseEvent {dataTransfer: null, toElement: canvas#container-1010.x-container x-container-default, fromElement: canvas#container-1010.x-container x-container-default, y: 218, x: 265…}
+ App.js:83
+Mark App point  265 218 258
+Object {color: Array[3], colorAsHTML: "#0000ff", width: 3, opacity: 1, tool: "pen"…}
+ App.js:71
+touchmove
+MouseEvent {dataTransfer: null, toElement: canvas#container-1010.x-container x-container-default, fromElement: canvas#container-1010.x-container x-container-default, y: 218, x: 265…}
+ App.js:83
+Mark App point  265 218 258
+Object {color: Array[3], colorAsHTML: "#0000ff", width: 3, opacity: 1, tool: "pen"…}
+ App.js:71
+touchmove
+MouseEvent {dataTransfer: null, toElement: canvas#container-1010.x-container x-container-default, fromElement: canvas#container-1010.x-container x-container-default, y: 218, x: 265…}
+ App.js:83
+Mark App point  265 218 258
+Object {color: Array[3], colorAsHTML: "#0000ff", width: 3, opacity: 1, tool: "pen"…}
+ App.js:71
+touchmove
+MouseEvent {dataTransfer: null, toElement: canvas#container-1010.x-container x-container-default, fromElement: canvas#container-1010.x-container x-container-default, y: 218, x: 265…}
+ App.js:83
+Mark App point  265 218 258
+Object {color: Array[3], colorAsHTML: "#0000ff", width: 3, opacity: 1, tool: "pen"…}
+ App.js:71
+touchmove
+MouseEvent {dataTransfer: null, toElement: canvas#container-1010.x-container x-container-default, fromElement: canvas#container-1010.x-container x-container-default, y: 218, x: 265…}
+ App.js:83
+Mark App point  265 218 258
+Object {color: Array[3], colorAsHTML: "#0000ff", width: 3, opacity: 1, tool: "pen"…}
+ App.js:71
+touchmove
+MouseEvent {dataTransfer: null, toElement: canvas#container-1010.x-container x-container-default, fromElement: canvas#container-1010.x-container x-container-default, y: 218, x: 265…}
+ App.js:83
+Mark App point  265 218 258
+Object {color: Array[3], colorAsHTML: "#0000ff", width: 3, opacity: 1, tool: "pen"…}
+ App.js:71
+touchmove
+MouseEvent {dataTransfer: null, toElement: canvas#container-1010.x-container x-container-default, fromElement: canvas#container-1010.x-container x-container-default, y: 218, x: 265…}
+ App.js:83
+Mark App point  265 218 258
+Object {color: Array[3], colorAsHTML: "#0000ff", width: 3, opacity: 1, tool: "pen"…}
+ App.js:71
+touchmove
+MouseEvent {dataTransfer: null, toElement: canvas#container-1010.x-container x-container-default, fromElement: canvas#container-1010.x-container x-container-default, y: 218, x: 265…}
+ App.js:83
+Mark App point  265 218 258
+Object {color: Array[3], colorAsHTML: "#0000ff", width: 3, opacity: 1, tool: "pen"…}
+ App.js:71
+touchmove
+MouseEvent {dataTransfer: null, toElement: canvas#container-1010.x-container x-container-default, fromElement: canvas#container-1010.x-container x-container-default, y: 218, x: 265…}
+ App.js:83
+Mark App point  265 218 258
+Object {color: Array[3], colorAsHTML: "#0000ff", width: 3, opacity: 1, tool: "pen"…}
+ App.js:71
+touchmove
+MouseEvent {dataTransfer: null, toElement: canvas#container-1010.x-container x-container-default, fromElement: canvas#container-1010.x-container x-container-default, y: 218, x: 265…}
+ App.js:83
+Mark App point  265 218 258
+Object {color: Array[3], colorAsHTML: "#0000ff", width: 3, opacity: 1, tool: "pen"…}
+ App.js:71
+touchmove
+MouseEvent {dataTransfer: null, toElement: canvas#container-1010.x-container x-container-default, fromElement: canvas#container-1010.x-container x-container-default, y: 218, x: 265…}
+ App.js:83
+Mark App point  265 218 258
+Object {color: Array[3], colorAsHTML: "#0000ff", width: 3, opacity: 1, tool: "pen"…}
+ App.js:71
+touchmove
+MouseEvent {dataTransfer: null, toElement: canvas#container-1010.x-container x-container-default, fromElement: canvas#container-1010.x-container x-container-default, y: 218, x: 265…}
+ App.js:83
+Mark App point  265 218 258
+Object {color: Array[3], colorAsHTML: "#0000ff", width: 3, opacity: 1, tool: "pen"…}
+ App.js:71
+touchmove
+MouseEvent {dataTransfer: null, toElement: canvas#container-1010.x-container x-container-default, fromElement: canvas#container-1010.x-container x-container-default, y: 218, x: 265…}
+ App.js:83
+Mark App point  265 218 258
+Object {color: Array[3], colorAsHTML: "#0000ff", width: 3, opacity: 1, tool: "pen"…}
+ App.js:71
+touchmove
+MouseEvent {dataTransfer: null, toElement: canvas#container-1010.x-container x-container-default, fromElement: canvas#container-1010.x-container x-container-default, y: 218, x: 265…}
+ App.js:83
+Mark App point  265 218 258
+Object {color: Array[3], colorAsHTML: "#0000ff", width: 3, opacity: 1, tool: "pen"…}
+ App.js:71
+touchmove
+MouseEvent {dataTransfer: null, toElement: canvas#container-1010.x-container x-container-default, fromElement: canvas#container-1010.x-container x-container-default, y: 218, x: 265…}
+ App.js:83
+Mark App point  265 218 258
+Object {color: Array[3], colorAsHTML: "#0000ff", width: 3, opacity: 1, tool: "pen"…}
+ App.js:71
+touchmove
+MouseEvent {dataTransfer: null, toElement: canvas#container-1010.x-container x-container-default, fromElement: canvas#container-1010.x-container x-container-default, y: 218, x: 265…}
+ App.js:83
+Mark App point  265 218 258
+Object {color: Array[3], colorAsHTML: "#0000ff", width: 3, opacity: 1, tool: "pen"…}
+ App.js:71
+touchmove
+MouseEvent {dataTransfer: null, toElement: canvas#container-1010.x-container x-container-default, fromElement: canvas#container-1010.x-container x-container-default, y: 218, x: 265…}
+ App.js:83
+Mark App point  265 218 258
+Object {color: Array[3], colorAsHTML: "#0000ff", width: 3, opacity: 1, tool: "pen"…}
+ App.js:71
+touchmove
+MouseEvent {dataTransfer: null, toElement: canvas#container-1010.x-container x-container-default, fromElement: canvas#container-1010.x-container x-container-default, y: 218, x: 265…}
+ App.js:83
+Mark App point  265 218 258
+Object {color: Array[3], colorAsHTML: "#0000ff", width: 3, opacity: 1, tool: "pen"…}
+ App.js:71
+touchmove
+MouseEvent {dataTransfer: null, toElement: canvas#container-1010.x-container x-container-default, fromElement: canvas#container-1010.x-container x-container-default, y: 218, x: 265…}
+ App.js:83
+Mark App point  265 218 258
+Object {color: Array[3], colorAsHTML: "#0000ff", width: 3, opacity: 1, tool: "pen"…}
+ App.js:71
+touchmove
+MouseEvent {dataTransfer: null, toElement: canvas#container-1010.x-container x-container-default, fromElement: canvas#container-1010.x-container x-container-default, y: 218, x: 265…}
+ App.js:83
+Mark App point  265 218 258
+Object {color: Array[3], colorAsHTML: "#0000ff", width: 3, opacity: 1, tool: "pen"…}
+ App.js:71
+touchmove
+MouseEvent {dataTransfer: null, toElement: canvas#container-1010.x-container x-container-default, fromElement: canvas#container-1010.x-container x-container-default, y: 218, x: 265…}
+ App.js:83
+Mark App point  265 218 258
+Object {color: Array[3], colorAsHTML: "#0000ff", width: 3, opacity: 1, tool: "pen"…}
+ App.js:71
+touchmove
+MouseEvent {dataTransfer: null, toElement: canvas#container-1010.x-container x-container-default, fromElement: canvas#container-1010.x-container x-container-default, y: 218, x: 265…}
+ App.js:83
+Mark App point  265 218 258
+Object {color: Array[3], colorAsHTML: "#0000ff", width: 3, opacity: 1, tool: "pen"…}
+ App.js:71
+touchmove
+MouseEvent {dataTransfer: null, toElement: canvas#container-1010.x-container x-container-default, fromElement: canvas#container-1010.x-container x-container-default, y: 218, x: 265…}
+ App.js:83
+Mark App point  265 218 258
+Object {color: Array[3], colorAsHTML: "#0000ff", width: 3, opacity: 1, tool: "pen"…}
+ App.js:71
+touchmove
+MouseEvent {dataTransfer: null, toElement: canvas#container-1010.x-container x-container-default, fromElement: canvas#container-1010.x-container x-container-default, y: 218, x: 265…}
+ App.js:83
+Mark App point  265 218 258
+Object {color: Array[3], colorAsHTML: "#0000ff", width: 3, opacity: 1, tool: "pen"…}
+ App.js:71
+touchmove
+MouseEvent {dataTransfer: null, toElement: canvas#container-1010.x-container x-container-default, fromElement: canvas#container-1010.x-container x-container-default, y: 218, x: 265…}
+ App.js:83
+Mark App point  265 218 258
+Object {color: Array[3], colorAsHTML: "#0000ff", width: 3, opacity: 1, tool: "pen"…}
+ App.js:71
+touchmove
+MouseEvent {dataTransfer: null, toElement: canvas#container-1010.x-container x-container-default, fromElement: canvas#container-1010.x-container x-container-default, y: 218, x: 265…}
+ App.js:83
+Mark App point  265 218 258
+Object {color: Array[3], colorAsHTML: "#0000ff", width: 3, opacity: 1, tool: "pen"…}
+ App.js:71
+touchmove
+MouseEvent {dataTransfer: null, toElement: canvas#container-1010.x-container x-container-default, fromElement: canvas#container-1010.x-container x-container-default, y: 218, x: 265…}
+ App.js:83
+Mark App point  265 218 258
+Object {color: Array[3], colorAsHTML: "#0000ff", width: 3, opacity: 1, tool: "pen"…}
+ App.js:71
+touchmove
+MouseEvent {dataTransfer: null, toElement: canvas#container-1010.x-container x-container-default, fromElement: canvas#container-1010.x-container x-container-default, y: 218, x: 265…}
+ App.js:83
+Mark App point  265 218 258
+Object {color: Array[3], colorAsHTML: "#0000ff", width: 3, opacity: 1, tool: "pen"…}
+ App.js:71
+touchmove
+MouseEvent {dataTransfer: null, toElement: canvas#container-1010.x-container x-container-default, fromElement: canvas#container-1010.x-container x-container-default, y: 218, x: 265…}
+ App.js:83
+Mark App point  265 218 258
+Object {color: Array[3], colorAsHTML: "#0000ff", width: 3, opacity: 1, tool: "pen"…}
+ App.js:71
+touchmove
+MouseEvent {dataTransfer: null, toElement: canvas#container-1010.x-container x-container-default, fromElement: canvas#container-1010.x-container x-container-default, y: 218, x: 265…}
+ App.js:83
+Mark App point  265 218 258
+Object {color: Array[3], colorAsHTML: "#0000ff", width: 3, opacity: 1, tool: "pen"…}
+ App.js:71
+touchmove
+MouseEvent {dataTransfer: null, toElement: canvas#container-1010.x-container x-container-default, fromElement: canvas#container-1010.x-container x-container-default, y: 218, x: 265…}
+ App.js:83
+Mark App point  265 218 258
+Object {color: Array[3], colorAsHTML: "#0000ff", width: 3, opacity: 1, tool: "pen"…}
+ App.js:71
+touchmove
+MouseEvent {dataTransfer: null, toElement: canvas#container-1010.x-container x-container-default, fromElement: canvas#container-1010.x-container x-container-default, y: 218, x: 265…}
+ App.js:83
+Mark App point  265 218 258
+Object {color: Array[3], colorAsHTML: "#0000ff", width: 3, opacity: 1, tool: "pen"…}
+ App.js:71
+touchmove
+MouseEvent {dataTransfer: null, toElement: canvas#container-1010.x-container x-container-default, fromElement: canvas#container-1010.x-container x-container-default, y: 218, x: 265…}
+ App.js:83
+Mark App point  265 218 258
+Object {color: Array[3], colorAsHTML: "#0000ff", width: 3, opacity: 1, tool: "pen"…}
+ App.js:71
+touchmove
+MouseEvent {dataTransfer: null, toElement: canvas#container-1010.x-container x-container-default, fromElement: canvas#container-1010.x-container x-container-default, y: 218, x: 265…}
+ App.js:83
+Mark App point  265 218 258
+Object {color: Array[3], colorAsHTML: "#0000ff", width: 3, opacity: 1, tool: "pen"…}
+ App.js:71
+touchmove
+MouseEvent {dataTransfer: null, toElement: canvas#container-1010.x-container x-container-default, fromElement: canvas#container-1010.x-container x-container-default, y: 218, x: 265…}
+ App.js:83
+Mark App point  265 218 258
+Object {color: Array[3], colorAsHTML: "#0000ff", width: 3, opacity: 1, tool: "pen"…}
+ App.js:71
+touchmove
+MouseEvent {dataTransfer: null, toElement: canvas#container-1010.x-container x-container-default, fromElement: canvas#container-1010.x-container x-container-default, y: 218, x: 265…}
+ App.js:83
+Mark App point  266 217 258
+Object {color: Array[3], colorAsHTML: "#0000ff", width: 3, opacity: 1, tool: "pen"…}
+ App.js:71
+touchmove
+MouseEvent {dataTransfer: null, toElement: canvas#container-1010.x-container x-container-default, fromElement: canvas#container-1010.x-container x-container-default, y: 217, x: 266…}
+ App.js:83
+Mark App point  266 217 258
+Object {color: Array[3], colorAsHTML: "#0000ff", width: 3, opacity: 1, tool: "pen"…}
+ App.js:71
+touchend
+MouseEvent {dataTransfer: null, toElement: canvas#container-1010.x-container x-container-default, fromElement: canvas#container-1010.x-container x-container-default, y: 217, x: 266…}
+ App.js:83
+

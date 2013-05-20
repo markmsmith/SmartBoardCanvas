@@ -1,0 +1,5 @@
+#proximity { text-align: center; }
+.symbol { font-size: 2em; font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;    font-weight: bold; color: #aaa; float: left; }
+#left { margin-left: 55px; -webkit-transform: rotate(-90deg); -moz-transform: rotate(-90deg); }
+#right { margin-left: 10px; -webkit-transform: rotate(90deg); -moz-transform: rotate(90deg); }
+.on { color: #333; }

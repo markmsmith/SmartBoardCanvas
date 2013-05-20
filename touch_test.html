@@ -1,0 +1,21 @@
+<html>
+<head>
+	<script type="text/javascript">
+
+		window.onload = function(){
+		var logger = function(event){
+			console.log(event.type, arguments);
+		};
+
+		var canvas = document.getElementById('sketchArea');
+		canvas.addEventListener('touchstart', logger, false);
+		canvas.addEventListener('touchmove', logger, false);
+		canvas.addEventListener('touchend', logger, false);
+  };
+	</script>
+</head>
+<body>
+	<canvas id='sketchArea' width=600 height=500 style="border: solid black 2px; border-radius: 10px">
+	</canvas>
+</body>
+</html
